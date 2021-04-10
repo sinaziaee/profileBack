@@ -1,0 +1,1 @@
+web: gunicorn ProfileBack.wsgi
